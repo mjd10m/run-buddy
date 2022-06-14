@@ -12,3 +12,5 @@ https://mjd10m.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Michael
+
+### ©️2019 Run Buddy, Inc
